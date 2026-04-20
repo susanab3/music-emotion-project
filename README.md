@@ -75,4 +75,4 @@ This includes:
 - Run the notebook **from top to bottom**
 - Do **not skip cells**
 - Later phases depend on earlier outputs
-- Full execution may take around **20 minutes**
+- Full execution may take around **20-25 minutes**
